@@ -18,8 +18,8 @@ Requirements:
 Clone the repository and run:
 
 ```powershell
-git clone https://github.com/Geetarthjain15/HYBRID-Fusion.git
-cd HYBRID-Fusion
+git clone https://github.com/Geetarthjain15/BTP_HYBRID_MODEL.git
+cd BTP_HYBRID_MODEL
 .\RUN_FUSIONV2_DEMO.bat
 ```
 

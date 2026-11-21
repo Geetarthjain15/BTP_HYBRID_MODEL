@@ -9,7 +9,7 @@ import urllib.request
 from pathlib import Path
 
 
-REPOSITORY = "Geetarthjain15/HYBRID-Fusion"
+REPOSITORY = "Geetarthjain15/BTP_HYBRID_MODEL"
 RELEASE_TAG = "v1.0.0-model-checkpoints"
 CHECKPOINTS = {
     42: "9b328ba83df5d44b542e19faae68fd1493fee61e0c5b80e493c2f8a387ed592e",
